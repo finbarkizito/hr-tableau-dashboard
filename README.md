@@ -3,6 +3,9 @@
 ## 🚀 Executive Summary
 Designed a dual-view business intelligence solution enabling Human Resources stakeholders to monitor workforce dynamics, retention trends, and compensation equity across **8,950+ employee records**. By integrating high-level strategic KPIs with granular employee details in **Tableau**, the dashboard accelerates identification of turnover risks, gender pay gaps, and performance correlations—reducing time-to-insight for workforce planning.
 
+🔗 **Interactive Dashboard:**  
+[View the live Tableau Public dashboard](https://public.tableau.com/app/profile/finbar.kizito/vizzes)
+
 ---
 
 ## 💼 Business Problem
@@ -40,6 +43,7 @@ The HR department lacked a consolidated, decision-ready view of workforce data a
   - Implemented a high-fidelity background layout designed in **Figma** to improve visual hierarchy and user adoption.
 
 ---
+
 ## 📊 Results & Key Insights
 
 - **Workforce Concentration:** The organisation is heavily centralised, with a disproportionate share of employees based at the New York HQ—posing scalability and resilience risks.
@@ -67,4 +71,3 @@ The HR department lacked a consolidated, decision-ready view of workforce data a
 - **Attrition Tracking:** Churn rate analysis requires historical snapshots; a future enhancement would involve warehouse-style snapshot tables to enable month-over-month attrition tracking.
 
 ---
-
