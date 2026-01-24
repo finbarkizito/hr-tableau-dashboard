@@ -40,5 +40,31 @@ The HR department lacked a consolidated, decision-ready view of workforce data a
   - Implemented a high-fidelity background layout designed in **Figma** to improve visual hierarchy and user adoption.
 
 ---
+## 📊 Results & Key Insights
 
+- **Workforce Concentration:** The organisation is heavily centralised, with a disproportionate share of employees based at the New York HQ—posing scalability and resilience risks.
+- **Compensation Disparities:**
+  - At **Bachelor’s degree level**, male employees earn higher average salaries than female peers.
+  - At **PhD level**, the trend reverses, with female employees earning approximately **25% more** on average.
+- **Performance Correlation:** Higher education levels strongly correlate with stronger performance ratings; PhD holders cluster in “Excellent,” while High School graduates show higher “Needs Improvement” rates.
+- **Managerial Demographics:** HR Managers are significantly younger on average, while Finance Managers represent the highest-paid and oldest cohort.
+
+---
+
+## 💡 Business Recommendations
+
+1. **Pay Equity Audit:** Conduct a focused compensation review for Bachelor’s-degree roles to address identified gender pay gaps and reduce legal and reputational exposure.
+2. **Talent Distribution Strategy:** Reduce dependency on HQ-based talent by incentivising hiring and retention in regional branches.
+3. **Targeted Upskilling:** Introduce development programmes for employees with High School education levels to improve performance outcomes.
+4. **Retention Intervention:** Use the detailed employee view to flag high-performing staff with tenure >5 years for proactive retention discussions.
+
+---
+
+## ⚠️ Limitations & Next Steps
+
+- **Synthetic Data:** Insights are derived from Python-generated data; patterns reflect realistic logic but not real organisational behaviour.
+- **Live Integration:** Future iterations should connect to an HRIS API (e.g. Workday, BambooHR) for real-time reporting.
+- **Attrition Tracking:** Churn rate analysis requires historical snapshots; a future enhancement would involve warehouse-style snapshot tables to enable month-over-month attrition tracking.
+
+---
 
