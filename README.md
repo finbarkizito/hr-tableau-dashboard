@@ -55,7 +55,7 @@ The HR department lacked a consolidated, decision-ready view of workforce data a
 
 ---
 
-## 💡 Business Recommendations
+## Business Recommendations
 
 1. **Pay Equity Audit:** Conduct a focused compensation review for Bachelor’s-degree roles to address identified gender pay gaps and reduce legal and reputational exposure.
 2. **Talent Distribution Strategy:** Reduce dependency on HQ-based talent by incentivising hiring and retention in regional branches.
@@ -64,7 +64,7 @@ The HR department lacked a consolidated, decision-ready view of workforce data a
 
 ---
 
-## ⚠️ Limitations & Next Steps
+## Limitations & Next Steps
 
 - **Synthetic Data:** Insights are derived from Python-generated data; patterns reflect realistic logic but not real organisational behaviour.
 - **Live Integration:** Future iterations should connect to an HRIS API (e.g. Workday, BambooHR) for real-time reporting.
