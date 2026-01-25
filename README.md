@@ -1,6 +1,6 @@
 # Workforce Analytics & HR Performance Dashboard
 
-## 🚀 Executive Summary
+## Summary
 Designed a dual-view business intelligence solution enabling Human Resources stakeholders to monitor workforce dynamics, retention trends, and compensation equity across **8,950+ employee records**. By integrating high-level strategic KPIs with granular employee details in **Tableau**, the dashboard accelerates identification of turnover risks, gender pay gaps, and performance correlations—reducing time-to-insight for workforce planning.
 
 🔗 **Interactive Dashboard:**  
@@ -8,7 +8,7 @@ Designed a dual-view business intelligence solution enabling Human Resources sta
 
 ---
 
-## 💼 Business Problem
+## Business Problem
 The HR department lacked a consolidated, decision-ready view of workforce data and relied on fragmented reports to answer critical organisational questions. Leadership faced uncertainty around:
 
 - **Retention Health:** Are we losing talent at an accelerating rate, and which departments experience the highest churn?
