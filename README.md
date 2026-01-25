@@ -18,7 +18,7 @@ The HR department lacked a consolidated, decision-ready view of workforce data a
 
 ---
 
-## 🛠️ Methodology & Skills Demonstrated
+## Methodology & Skills Demonstrated
 
 **Tools:** Tableau Public · Python (Faker) · Figma  
 
@@ -44,7 +44,7 @@ The HR department lacked a consolidated, decision-ready view of workforce data a
 
 ---
 
-## 📊 Results & Key Insights
+## Results & Key Insights
 
 - **Workforce Concentration:** The organisation is heavily centralised, with a disproportionate share of employees based at the New York HQ—posing scalability and resilience risks.
 - **Compensation Disparities:**
