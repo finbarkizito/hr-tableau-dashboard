@@ -60,7 +60,7 @@ We created an Age versus Salary scatter plot with Average Age on Columns and Ave
 
 We constructed a multi-column employee detail list using AVG(0) placeholder fields to control column layout. Each column was populated with grouped labels representing identity, role, location, compensation, employment status, and tenure.
 
-We displayed Length of Hire as a bar mark to visually encode tenure length alongside textual employee attributes.
+We can display the Length of Hire as a bar mark to visually encode tenure length alongside textual employee attributes.
 
 ## Layout, Containers, and Dashboard Assembly
 
