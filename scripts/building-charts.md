@@ -12,11 +12,11 @@ We validated data types by assigning employee identifiers, names, gender, educat
 
 We created an organizational hierarchy by nesting Job Title within Department to support drill-down analysis across views. This hierarchy was reused consistently across bar charts, heat maps, and tooltips.
 
-We applied a custom workbook theme using Trebuchet MS and defined four custom colors representing background, text, active status, and terminated status. Worksheet shading was set to dark gray and the default view was configured to fit the entire canvas.
+From this, we can apply a custom workbook theme using Trebuchet MS and define four custom colors representing background, text, active status, and terminated status. Worksheet shading was set to dark gray and the default view was configured to fit the entire canvas.
 
 ## Calculated Fields Created
 
-We created a Total Hired field using `COUNT([Employee ID])` to serve as the primary headcount measure across all views. This measure was reused for ranking, distributions, and KPI displays.
+For these, we can firstly create a Total Hired field using `COUNT([Employee ID])` to serve as the primary headcount measure across all views. This measure was reused for ranking, distributions, and KPI displays.
 
 We defined Total Terminated by checking for non-null termination dates and counting employee IDs, and Total Active by counting employee IDs where termination dates were null. Both fields were converted to Count aggregations.
 
