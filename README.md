@@ -26,7 +26,7 @@ The HR department lacked a consolidated, decision-ready view of workforce data a
 
 - **Data Engineering & Preparation**
   - Generated a robust synthetic HR dataset using **Python (Faker)** to simulate realistic hire dates, termination logic, salaries, and performance ratings.
-  - Validated data types and built hierarchical relationships (Department → Job Title).
+  - From this, data tyes were validated and heirarchical relatonships (Department → Job Title).
 
 - **KPI Logic & Calculations**
   - Classified **Active vs. Terminated** employees using `IF/THEN` logic with `ISNULL` checks on termination dates.
