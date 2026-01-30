@@ -1,7 +1,7 @@
 # Workforce Analytics & HR Performance Dashboard
 
 ## Summary
-Designed a dual-view business intelligence solution enabling Human Resources stakeholders to monitor workforce dynamics, retention trends, and compensation equity across **8,950+ employee records**. By integrating strategic KPIs with granular employee details in **Tableau**, from this, we cam identify turnover risks, gender pay gaps, and performance correlations which redues time-to-insight for workforce planning.
+Designed a dual-view business intelligence solution enabling Human Resources stakeholders to monitor workforce dynamics, retention trends, and compensation equity across **8,950+ employee records**. By integrating strategic KPIs with granular employee details in **Tableau**, from this, we can identify turnover risks, gender pay gaps, and performance correlations which redues time-to-insight for workforce planning.
 
 🔗 **Interactive Dashboard:**  
 [View the live Tableau Public dashboard](https://public.tableau.com/app/profile/finbar.kizito/viz/HRdashboard_17697193047110/HRISummary)
