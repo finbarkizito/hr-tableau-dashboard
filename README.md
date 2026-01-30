@@ -66,7 +66,6 @@ The HR department lacked a consolidated, decision-ready view of workforce data a
 
 ## Limitations & Next Steps
 
-- **Synthetic Data:** Insights are derived from Python-generated data; patterns reflect realistic logic but not real organisational behaviour.
 - **Live Integration:** Future iterations should connect to an HRIS API (e.g. Workday, BambooHR) for real-time reporting.
 - **Attrition Tracking:** Churn rate analysis requires historical snapshots; a future enhancement would involve warehouse-style snapshot tables to enable month-over-month attrition tracking.
 
