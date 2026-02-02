@@ -105,4 +105,37 @@ THEN 1
 ELSE 0  
 END
 ```
+# Average Headcount (Population at Risk)
 
+To approximate the average number of employees exposed to attrition risk during the year, opening and closing headcount are averaged.
+
+```tableau
+(  
+    SUM([Opening Headcount Flag]) +  
+    SUM([Closing Headcount Flag])  
+) / 2  
+```
+
+---
+
+# Final Attrition Rate
+
+The annual attrition rate is calculated as:
+
+```tableau
+SUM([Is Leaver]) / [Average Headcount]  
+```
+
+The result is formatted as a percentage.  
+
+This represents the **proportion of the workforce that exited during the year**, adjusted for workforce size.
+
+---
+
+# Why This Methodology Was Chosen
+
+This approach was selected because it:  
+- Ensures **full-year consistency** across all comparisons  
+- Avoids misleading snapshot-based calculations  
+- Correctly represents **employee exposure to attrition** ↓ risk  
+- Scales cleanly as new years of data are added
