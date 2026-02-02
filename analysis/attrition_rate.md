@@ -57,7 +57,52 @@ From the selected `Analysis Year`, fixed start and end dates are generated.
 
 ```tableau
 MAKEDATE([Analysis Year], 1, 1)
+```
+
+## Year End Date
+
+```tableau
+MAKEDATE([Analysis Year], 12, 31)
+```
+These derived dates prevent user error and ensure that all calculations align to the same annual window.
 
 ---
 
+### Attrition Calculation 
+Attrition is calculated using the **population-at-risk approach**, which consists of four core components:
+
+1. Leavers during the year  
+2. Opening headcount  
+3. Closing headcount  
+4. Average headcount (denominator)  
+
+---
+
+### Leavers During the Year
+
+Employees are classified as leavers if their termination date falls within the selected year.
+
+```tableau
+IF NOT ISNULL([TerminationDate])  
+AND [TerminationDate] >= [Year Start Date]  
+AND [TerminationDate] <= [Year End Date]  
+THEN 1  
+ELSE 0  
+END
+```
+
+### Opening Headcount (Start of Year)
+
+Opening headcount represents employees who were active on **1 January** of the analysis year.
+
+```tableau
+IF [HireDate] <= [Year Start Date]  
+AND (  
+    ISNULL([TerminationDate])  
+    OR [TerminationDate] > [Year Start Date]  
+)  
+THEN 1  
+ELSE 0  
+END
+```
 
