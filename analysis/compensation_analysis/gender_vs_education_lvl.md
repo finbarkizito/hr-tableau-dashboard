@@ -1,8 +1,7 @@
 ## Compensation Analysis by Gender and Education Level
 
-<p align="center">
-  <img src="images/gender_vs_education.png" alt="Compensation by Gender and Education Level" width="800">
-</p>
+<img src="../images/gender_vs_education.png" alt="Compensation by Gender and Education Level" width="800">
+
 
 <em>Placeholder: Replace the image path above with the exported Tableau visual showing salary by gender and education level.</em>
 
