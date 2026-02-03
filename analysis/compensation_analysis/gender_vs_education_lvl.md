@@ -1,5 +1,11 @@
 ## Compensation Analysis by Gender and Education Level
 
+<p align="center">
+  <img src="images/gender_vs_education.png" alt="Compensation by Gender and Education Level" width="800">
+</p>
+
+<em>Placeholder: Replace the image path above with the exported Tableau visual showing salary by gender and education level.</em>
+
 This analysis compares **average salary by education level**, segmented by **gender**, to assess how compensation progresses with qualifications and whether pay alignment differs across the workforce. Female employees are represented by the light green “×”, while male employees are represented by the dark green “+”. The accompanying figures indicate the average salary at each education level.
 
 Education levels progress from **High School → Bachelor → Master → PhD**, providing a clear framework for evaluating returns to education and gender alignment within the company’s compensation structure.
