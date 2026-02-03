@@ -1,5 +1,11 @@
 ## Compensation Analysis Overview
 
+<p align="center">
+  <img src="analysis/images/compensation_age_salary.png" alt="Compensation Analysis: Salary vs Age" width="800">
+</p>
+
+This analysis examines employee compensation using a scatter plot of **salary (Y-axis)** against **age (X-axis)**, with reference lines marking the **average salary (£78k)** and **average age (43)**. These benchmarks divide the workforce into four distinct quadrants, each offering insight into how pay aligns with experience, role seniority, and skill value across the organisation.
+
 This analysis examines employee compensation using a scatter plot of **salary (Y-axis)** against **age (X-axis)**, with reference lines marking the **average salary (£78k)** and **average age (43)**. These benchmarks divide the workforce into four distinct quadrants, each offering insight into how pay aligns with experience, role seniority, and skill value across the organisation.
 
 ## Interpretation of the Four Quadrants
