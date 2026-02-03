@@ -59,7 +59,7 @@ The HR department lacked a consolidated, decision-ready view of workforce data a
 
 1. **Pay Equity Audit:** Conduct a focused compensation review for Bachelor’s-degree roles to address identified gender pay gaps and reduce legal and reputational exposure (Could this be due to hours worked?).
 2. **Talent Distribution Strategy:** Reduce dependency on HQ-based talent by incentivising hiring and retention in regional branches.
-3. **Targeted Upskilling:** Introduce development programmes for employees with High School education levels to improve performance outcomes.
+3. **Targeted Upskilling:** Introduce development programmes for employees with High School levels of education to improve performance outcomes.
 4. **Retention Intervention:** Use the detailed employee view to flag high-performing staff with tenure >5 years for proactive retention discussions.
 
 ---
