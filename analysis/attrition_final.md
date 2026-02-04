@@ -17,7 +17,6 @@ The figures below show departmental attrition rates by year. They are displayed 
   <strong>2024</strong>
 </p>
 
-<em>Note: Update each <code>img src</code> path to match your repository structure. If this README is inside a subfolder, use a relative path such as <code>../images/attrition_2020.png</code>.</em>
 
 ---
 
