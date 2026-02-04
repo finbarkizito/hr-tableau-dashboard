@@ -1,6 +1,11 @@
+## Performance rating Vs Education level
+
+![Education vs Performance Rating](Education_vs_Performance.png)
+
 ### High School Education Level
 
 At the High School level, performance outcomes are concentrated toward the lower end of the rating scale. The largest share of employees fall into *Needs Improvement (34%)* and *Satisfactory (32%)*, while only *21% are rated Good* and *13% Excellent*. This distribution is typical of roles that are operational, process-driven, and often entry-level, where learning curves are steep and performance differentiation is limited by role scope rather than individual capability. From a workforce perspective, this suggests these positions function as foundational roles, requiring structured supervision, training, and clear performance management rather than aggressive performance-based differentiation.
+
 
 ### Bachelor’s Degree Level
 
