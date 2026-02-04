@@ -16,7 +16,7 @@ The **upper-left quadrant (Age < 43 but Salary > £78k)** captures relatively yo
 
 The **lower-right quadrant (Age > 43 but Salary < £78k)** is the most sensitive area from a compensation-analysis standpoint. It contains more experienced employees whose pay sits below the organisational average. While this can reflect roles with flatter pay trajectories or non-managerial career paths, it also introduces potential risk around pay compression, progression ceilings, or perceived under-reward for experience. This quadrant warrants closer monitoring, especially if paired with higher attrition or lower engagement.
 
-The **lower-left quadrant (Age < 43, Salary < £78k)** represents the early-career and junior workforce. Roles such as assistants, recruiters, and entry-level specialists are expected to cluster here. This is a structurally healthy quadrant, provided there are clear development and progression pathways into higher compensation bands over time.
+The **lower-left quadrant (Age < 43, Salary but £78k)** represents the early-career and junior workforce. Roles such as assistants, recruiters, and entry-level specialists are expected to cluster here. This is a structurally healthy quadrant, provided there are clear development and progression pathways into higher compensation bands over time.
 
 ## Overall Assessment of the Compensation Strategy
 
