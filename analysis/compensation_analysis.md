@@ -10,7 +10,7 @@ This analysis examines employee compensation using a scatter plot of **salary (Y
 
 ## Interpretation of the Four Quadrants
 
-The **upper-right quadrant (Age > 43, Salary > £78k)** represents senior, experienced, and highly compensated employees. Roles such as Finance Manager and IT Manager appear in this space, which aligns with expectations for leadership, accountability, and domain expertise. From a compensation-governance perspective, this quadrant indicates a healthy reward structure where experience and responsibility are appropriately recognised, with no immediate signs of senior-level pay compression.
+The **upper-right quadrant (Age > 43 but Salary > £78k)** represents senior, experienced, and highly compensated employees. Roles such as Finance Manager and IT Manager appear in this space, which aligns with expectations for leadership, accountability, and domain expertise. From a compensation-governance perspective, this quadrant indicates a healthy reward structure where experience and responsibility are appropriately recognised, with no immediate signs of senior-level pay compression.
 
 The **upper-left quadrant (Age < 43 but Salary > £78k)** captures relatively younger employees earning above the company average. This pattern is typically associated with specialist or high-impact roles, particularly in technical or commercially critical functions. The presence of employees here suggests the organisation is willing to pay for scarce skills and performance rather than relying purely on tenure-based progression, signalling competitiveness in tight labour markets.
 
