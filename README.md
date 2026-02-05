@@ -20,12 +20,12 @@ The HR department lacked a consolidated, decision-ready view of workforce data a
 
 ## Methodology & Skills Demonstrated
 
-**Tools:** Tableau Public · Python (Faker) · Figma  
+**Tools:** Tableau Public · Python · Figma  
 
 ### Analytical Approach
 
 - **Data Engineering & Preparation**
-  - Generated a robust synthetic HR dataset using **Python (Faker)** to simulate realistic hire dates, termination logic, salaries, and performance ratings.
+  - Generated a robust synthetic HR dataset using **Python** to simulate realistic hire dates, termination logic, salaries, and performance ratings.
   - From this, data tyes were validated and heirarchical relatonships (Department → Job Title).
 
 - **KPI Logic & Calculations**
