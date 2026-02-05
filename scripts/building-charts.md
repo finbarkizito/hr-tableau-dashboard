@@ -10,7 +10,7 @@ We validated data types by assigning employee identifiers, names, gender, educat
 
 ## Field Preparation and Transformations
 
-We can create an organizational hierarchy by nesting Job Title within Department to support drill-down analysis across views. This hierarchy was reused consistently across bar charts, heat maps, and tooltips.
+We can create an organizational hierarchy by nesting Job Title within Department to support drill-down analysis across views. 
 
 From this, we can apply a custom workbook theme using Trebuchet MS and define four custom colors representing background, text, active status, and terminated status. Worksheet shading was set to dark gray and the default view was configured to fit the entire canvas.
 
