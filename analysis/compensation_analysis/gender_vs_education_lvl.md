@@ -23,7 +23,7 @@ At the **PhD level**, salaries peak in the low £90k range, with female averages
 
 Overall, the company demonstrates a **qualification-sensitive and market-aligned compensation framework**, with pay increasing consistently alongside education level. Gender differences are not uniform across qualifications, and critically, they do not widen at higher education levels. The compression and potential reversal of the gap at PhD level strongly suggests there is no systemic gender bias at the senior or specialist end of the organisation.
 
-From a long-term compensation-analysis perspective, this indicates a generally healthy structure, with one targeted area—the Bachelor level—warranting deeper role- and level-matched review rather than wholesale intervention.
+From a long-term compensation-analysis perspective, this indicates a generally healthy structure, with one targeted area, the Bachelor level, warranting deeper role-and level-matched review rather than wholesale intervention.
 
 ## Interpretation Limits
 
