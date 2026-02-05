@@ -31,4 +31,4 @@ This analysis is based on **average salaries** and does not control for job role
 
 ## Professional Summary
 
-The company exhibits clear returns to education, disciplined pay progression, and no indication of systemic gender imbalance at higher qualification levels. While Bachelor-level differences merit further investigation, the overall compensation structure appears **structured, defensible, and aligned with market principles**, requiring targeted refinement rather than fundamental correction.
+The company exhibits clear returns to education, disciplined pay progression, and no indication of systemic gender imbalance at higher qualification levels. While Bachelor-level differences merit further investigation, the overall compensation structure appears structured and defensible thus requiring targeted refinement rather than fundamental correction.
