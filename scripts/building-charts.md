@@ -38,7 +38,7 @@ We duplicated the Hired trend to create the Terminated trend by replacing the da
 
 We constructed a Department ranking bar chart with Department on Rows and Total Hired on Columns, then added a discrete INDEX calculation to display rank positions. Departments were sorted descending by Total Hired.
 
-We built a Location bar chart using Location on Rows and Total Hired on Columns, applying custom colors to differentiate HQ from Branch locations.
+WWe can then buildma Location bar chart using Location on Rows and Total Hired on Columns, applying custom colors to differentiate HQ from Branch locations.
 
 We created a map using Longitude and Latitude with State on Detail, applied a dark map style, and added City as a dual-axis circle layer sized by Total Hired to show city-level distribution.
 
