@@ -7,7 +7,7 @@ The chart indicates that the company has historically followed an episodic, wave
 ## Most Effective Hiring Period
 
 The 2017 hiring cohort stands out as the most effective hiring strategy observed. Its continued prominence in the active workforce implies not only aggressive recruitment but also strong retention outcomes. Subsequent hiring between 2018 and 2020 appears more restrained and fragmented, contributing to current headcount but at a reduced scale. The sharp contraction associated with 2021 reflects a clear shift in strategy, likely driven by external or internal disruption. 
-Hiring momentum then recovered in 2022 and 2023, although the smaller surviving cohorts relative to 2017 suggest a recovery-oriented approach rather than a structurally durable expansion. Hiring activity in 2024 appears lower primarily due to the recency of these hires and the limited time for cohort accumulation.
+Hiring momentum then recovered in 2022 and 2023, However. the smaller surviving cohorts relative to 2017 suggest a recovery-oriented approach rather than a structurally durable expansion. Hiring activity in 2024 appears lower primarily due to the recency of these hires and the limited time for cohort accumulation.
 
 ## Interpretation Limits
 
