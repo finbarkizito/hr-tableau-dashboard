@@ -4,7 +4,7 @@
 
 We generated a synthetic Human Resources dataset using Python with the Faker library and exported the output as a CSV file named `Human Resources.csv`. The dataset was structured to include employee demographics, employment dates, compensation, and performance metrics.
 
-We connected Tableau Public directly to `Human Resources.csv` and verified the file settings, confirming the field separator was set to semicolon and encoding was UTF-8 to avoid parsing issues.
+We connected Tableau Public directly to `Human Resources.csv` and verified the file settings, confirming the field separator was set to semicolon and encoding was **UTF-8** to avoid parsing issues.
 
 We validated data types by assigning employee identifiers, names, gender, education, department, job title, and performance rating as strings, while birth date, hire date, and termination date were configured as date fields. Salary was configured as a numeric field, and City and State were assigned geographic roles.
 
