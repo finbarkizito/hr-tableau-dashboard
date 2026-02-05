@@ -48,7 +48,7 @@ We created a Gender donut chart using two MIN(0) axes, with the outer ring color
 
 We built a heat map for Age Groups versus Education Level using circle marks sized by Total Hired, alongside bar charts showing Age Group and Education distributions independently.
 
-We constructed a performance correlation heat map with Performance Rating on Columns and Education Level on Rows, computing Percent of Total within each rating band.
+Therefore we can construct a performance correlation heat map with Performance Rating on Columns and Education Level on Rows, computing Percent of Total within each rating band.
 
 ## Income Analysis
 
