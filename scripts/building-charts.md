@@ -22,7 +22,7 @@ We defined Total Terminated by checking for non-null termination dates and count
 
 We calculated Age using a year-level date difference between Birth Date and Today, then grouped Age into bins representing predefined age ranges. These bins were used consistently across demographic charts.
 
-We derived Location using a CASE statement that classified New York as HQ and all other states as Branch, and defined Status based on whether Termination Date was null.
+With that, we can then derive the Location using a CASE statement that classified New York as HQ and all other states as Branch, and define Status based on whether Termination Date was null.
 
 We created Percentage Total Hired using a table calculation dividing total hires by the window total, and Highlight Max using a WINDOW_MAX comparison to support conditional formatting. Additional helper fields included Full Name and Length of Hire calculated using Hire Date and Termination Date logic.
 
