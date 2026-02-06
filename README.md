@@ -13,7 +13,7 @@ The HR department lacked a consolidated, decision-ready view of workforce data a
 
 - **Retention Health:** Are we losing talent at an accelerating rate, and which departments experience the highest churn?
 - **Compensation Equity:** Do salary disparities exist between genders across education levels?
-- **Demographic Risk:** Is the workforce aging, and is there over-reliance on HQ-based talent versus regional branches?
+- **Demographic Risk:** Is our workforce aging and at what rate, and is there over-reliance on HQ-based talent versus regional branches?
 - **Performance Drivers:** Is there a measurable relationship between education level and employee performance?
 
 ---
