@@ -36,7 +36,7 @@ The HR department lacked a consolidated, decision-ready view of workforce data a
 - **Advanced Tableau Techniques**
   - **Gap Analysis (Dual-Axis):** Visualised gender pay differentials using layered bar and reference mark techniques.
   - **Correlation Analysis:** Used scatter plots and heat maps to evaluate relationships between education, salary, and performance.
-  - **Viz-in-Tooltip:** Embedded secondary charts in tooltips to enable drill-down without disrupting dashboard context.
+  - **Viz-in-Tooltip:** Embedded secondary charts in tooltips to enable the drill-down without disrupting dashboard context.
 
 - **Dashboard Architecture & UX**
   - Designed a **two-layer navigation system** (Executive Summary vs. Employee Detail) using parameter actions and navigation buttons.
