@@ -14,9 +14,7 @@ This is a high-retention organisation across all hiring waves.
 * It does **not** have a post-pandemic retention shock.
 * Differences between cohorts are **single-digit percentage points**, well within what you would expect from normal variation given tenure length and censoring.
 
-In other words: retention is **stable, not the differentiator**.
-
----
+In other words: retention is*stable, not the differentiator.
 
 ## The correct interpretation
 
