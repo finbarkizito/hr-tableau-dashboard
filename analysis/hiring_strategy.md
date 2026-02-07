@@ -1,15 +1,60 @@
 ![Hiring Strategy Overview](images/hiring_strategy.png)
 
-## Hiring Strategy Over Time
+I’ll answer this the way a senior analyst would in a board or investment review, and I’ll explicitly close the loop with **“so what?”**.
 
-The chart indicates that the company has historically followed an episodic, wave-based hiring strategy rather than a steady, incremental growth model. Recruitment activity intensified sharply between 2016 and 2017, producing the largest surviving hiring cohort in the dataset. The persistence of this cohort suggests that hiring during this period aligned well with sustained business demand, clearly defined roles, and effective onboarding and management practices. From a long-term analytical perspective, this phase represents a strategic expansion that successfully translated hiring volume into durable organisational capacity.
+---
 
-## Most Effective Hiring Period
+## What we see from the chart?
 
-The 2017 hiring cohort stands out as the most effective hiring strategy observed. Its continued prominence in the active workforce implies not only aggressive recruitment but also strong retention outcomes. Subsequent hiring between 2018 and 2020 appears more restrained and fragmented, contributing to current headcount but at a reduced scale. The sharp contraction associated with 2021 reflects a clear shift in strategy, likely driven by external or internal disruption. 
-Hiring momentum then recovered in 2022 and 2023, However. the smaller surviving cohorts relative to 2017 suggest a recovery-oriented approach rather than a structurally durable expansion. Hiring activity in 2024 appears lower primarily due to the recency of these hires and the limited time for cohort accumulation.
+This heatmap shows **end-of-year retention by hire cohort**. For every cohort from **2015 through 2024**, retention at the latest observable tenure point sits between **83% and 94%**. There is **no cohort collapse**, no sharp post-hire attrition spike, and no structural break between pre- and post-2020 hiring.
 
-## Interpretation Limits
+The 2017–2021 cohorts retain **~87–91%** of staff at comparable tenure points (years 4–6). That places them statistically in line with, not above, earlier cohorts. Recent cohorts (2023–2024) show **~94% retention**, but those points are **right-censored** (too early for exits to materialise).
 
-This chart represents the distribution of the current active workforce by hire year and should not be interpreted as a direct measure of historical headcount growth or decline. It does not show how many employees were employed in each year, nor does it capture the timing or volume of attrition within cohorts. 
-External labour-market conditions, cohort maturity, and organisational changes are not visible in this view. Conclusions about company-wide expansion or contraction should therefore be validated using point-in-time headcount measures and attrition analysis by hire cohort.
+This is a **high-retention organisation across all hiring waves**.
+
+---
+
+## What this rules out (important)
+
+* This company does **not** have a hiring-quality problem.
+* It does **not** have a post-pandemic retention shock.
+* Differences between cohorts are **single-digit percentage points**, well within what you would expect from normal variation given tenure length and censoring.
+
+In other words: retention is **stable, not the differentiator**.
+
+---
+
+## The correct interpretation
+
+Retention is **uniformly strong**, so **headcount outcomes are being driven by hiring volume, not people leaving**.
+
+Analogy (to make this concrete):
+This is a bucket with very low leakage. If the water level changes, it’s because you turned the tap up or down — not because the bucket is cracked.
+
+---
+
+## So what?
+
+1. **Workforce size is a management choice, not an attrition outcome.**
+   If leadership wants growth, the constraint is recruiting capacity and budget, not retention fixes.
+
+2. **Do not over-interpret early-cohort strength.**
+   The high retention in 2023–2024 is expected and will mechanically decline as tenure increases. Treat it as provisional, not proof of improvement.
+
+3. **Stop spending analytics effort on “why people leave.”**
+   The bigger lever is **where and when the firm hires**, not how it patches leaks that largely don’t exist.
+
+4. **Strategic risk sits elsewhere.**
+   With retention this high, risks shift to:
+
+   * role misallocation,
+   * skill obsolescence,
+   * and cost rigidity during downturns.
+
+---
+
+## In a nutshell
+This company retains people consistently well; changes in workforce capacity are driven almost entirely by hiring decisions, so the strategic question is not “how do we reduce attrition?” but “when, where, and why do we choose to hire.”
+
+
+
