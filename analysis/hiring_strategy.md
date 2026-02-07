@@ -10,11 +10,9 @@ This is a high-retention organisation across all hiring waves.
 
 ## What we can rule out
 
-* This company does **not** have a hiring-quality problem.
-* It does **not** have a post-pandemic retention shock.
-* Differences between cohorts are **single-digit percentage points**, well within what you would expect from normal variation given tenure length and censoring.
+This company does **not** have a hiring-quality problem and neither does it have a post-pandemic retention shock as the differences between cohorts are **single-digit percentage points** which are well within what you would expect from normal variation given tenure length and censoring.
 
-In other words: retention is*stable, not the differentiator.
+In other words: retention is stable and not the differentiator.
 
 ## The correct interpretation
 
