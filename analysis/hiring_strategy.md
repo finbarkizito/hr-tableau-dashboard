@@ -2,7 +2,7 @@
 
 ## What we see from the chart?
 
-This heatmap shows **end-of-year retention by hire cohort**. For every cohort from **2015 through 2024**, retention at the latest observable tenure point sits between **83% and 94%**. There is **no cohort collapse**, no sharp post-hire attrition spike, and no structural break between pre- and post-2020 hiring.
+This heatmap shows **end-of-year retention by hire cohort**. For every cohort from **2015** through **2024**, retention at the latest observable tenure point sits between **83%** and **94%**. There is no cohort collapse i.e., no sharp post-hire attrition spike and no structural break between pre- and post-2020 (Covid) hiring.
 
 The 2017–2021 cohorts retain **~87–91%** of staff at comparable tenure points (years 4–6). That places them statistically in line with, not above, earlier cohorts. Recent cohorts (2023–2024) show **~94% retention**, but those points are right-censored i.e., (too early for exits to materialise).
 
