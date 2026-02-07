@@ -38,8 +38,6 @@ Retention is uniformly strong, so **headcount outcomes are being driven by hirin
    * skill obsolescence,
    * and cost rigidity during downturns.
 
----
-
 ## In a nutshell
 This company retains people consistently well; changes in workforce capacity are driven almost entirely by hiring decisions, so the strategic question is not “how do we reduce attrition?” but “when, where, and why do we choose to hire.”
 
