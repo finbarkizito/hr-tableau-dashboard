@@ -32,11 +32,7 @@ Retention is uniformly strong, so **headcount outcomes are being driven by hirin
    The bigger lever is **where and when the firm hires**, not how it patches leaks that largely don’t exist.
 
 4. **Strategic risk sits elsewhere.**
-   With retention this high, risks shift to:
-
-   * role misallocation,
-   * skill obsolescence,
-   * and cost rigidity during downturns.
+   With retention this high, risks generally shift to: role misallocation, skill obsolescence and cost rigidity during downturns.
 
 ## In a nutshell
 This company retains people consistently well; changes in workforce capacity are driven almost entirely by hiring decisions, so the strategic question is not “how do we reduce attrition?” but “when, where, and why do we choose to hire.”
