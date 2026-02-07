@@ -1,9 +1,5 @@
 ![Hiring Strategy Overview](images/hiring_strategy.png)
 
-I’ll answer this the way a senior analyst would in a board or investment review, and I’ll explicitly close the loop with **“so what?”**.
-
----
-
 ## What we see from the chart?
 
 This heatmap shows **end-of-year retention by hire cohort**. For every cohort from **2015 through 2024**, retention at the latest observable tenure point sits between **83% and 94%**. There is **no cohort collapse**, no sharp post-hire attrition spike, and no structural break between pre- and post-2020 hiring.
