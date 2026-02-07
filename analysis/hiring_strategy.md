@@ -20,12 +20,7 @@ In other words: retention is **stable, not the differentiator**.
 
 ## The correct interpretation
 
-Retention is **uniformly strong**, so **headcount outcomes are being driven by hiring volume, not people leaving**.
-
-Analogy (to make this concrete):
-This is a bucket with very low leakage. If the water level changes, it’s because you turned the tap up or down — not because the bucket is cracked.
-
----
+Retention is uniformly strong, so **headcount outcomes are being driven by hiring volume, not people leaving** to drive this home, we can relate this to a bucket with very low leakage. If the water level changes, it’s because you turned the tap up or down and not because the bucket is cracked.
 
 ## So what?
 
