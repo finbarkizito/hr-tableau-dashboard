@@ -1,4 +1,4 @@
-![Hiring Strategy Overview](images/hiring_strategy.png)
+![Hiring Strategy Overview](images/retention_rate.png)
 
 ## What we see from the chart?
 
