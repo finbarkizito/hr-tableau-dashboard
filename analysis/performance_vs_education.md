@@ -1,6 +1,6 @@
-## Performance rating Vs Education level
+## Education level Vs Performance Rating
 
-![Education vs Performance Rating](Education_vs_Performance.png)
+![Education vs Performance Rating](images/education_vs_performance.png)
 
 ### High School Education Level
 
