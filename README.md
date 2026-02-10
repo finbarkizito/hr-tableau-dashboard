@@ -54,7 +54,7 @@ This analysis consolidates multiple employee-focused dashboards to assess how co
 ### Compensation Scales with Experience, with Targeted Market Exceptions
 Analysis of **salary versus age** shows a clear upward relationship between experience and compensation, indicating a coherent progression framework. Senior and managerial roles are appropriately concentrated in higher salary bands, while a subset of younger employees earn above-average pay, reflecting market pricing for specialist or high-impact roles.
 
-**So what:**  
+**Implications**  
 This pattern suggests a balanced compensation strategy that combines tenure-based progression with selective pay premiums for scarce skills. Such a structure supports competitiveness in tight labour markets without undermining internal pay coherence.
 
 **Watchpoint:**  
