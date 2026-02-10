@@ -81,8 +81,8 @@ Education strengthens baseline capability, but long-term performance differentia
 
 ---
 
-### Executive Takeaway
-The organisation demonstrates a **coherent and defensible people strategy**. Compensation generally aligns with experience and education, selectively rewards high-value skills, and shows no indication of systemic gender imbalance at senior levels. Identified risks are localised—mid-career pay compression and early-career progression clarity—supporting targeted intervention rather than wholesale reform.
+### Takeaway
+Overall, the evidence points to a well-structured compensation and talent framework as pay progression is aligned with experience and qualifications, market premiums are applied selectively for critical skills, and no systemic gender bias is observed at senior levels. That being said, the few risks identified are contained and addressable, indicating a need for focused refinement rather than wholesale change.
 
 ---
 
