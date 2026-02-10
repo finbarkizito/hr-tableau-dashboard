@@ -52,6 +52,10 @@ This analysis consolidates multiple employee-focused dashboards to assess how co
 ---
 
 ### Compensation Scales with Experience, with Targeted Market Exceptions
+
+<p align="center">
+  <img src="analysis/images/age_vs_Salary.png" alt="Compensation Analysis: Salary vs Age" width="800">
+</p>
 Analysis of **salary versus age** shows a clear upward relationship between experience and compensation, indicating a coherent progression framework. Senior and managerial roles are appropriately concentrated in higher salary bands, while a subset of younger employees earn above-average pay, reflecting market pricing for specialist or high-impact roles.
 
 **Implications**  
