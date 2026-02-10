@@ -54,8 +54,17 @@ This analysis consolidates multiple employee-focused dashboards to assess how co
 ### Compensation Scales with Experience, with Targeted Market Exceptions
 
 <p align="center">
-  <img src="analysis/images/age_vs_Salary.png" alt="Compensation Analysis: Salary vs Age" width="800">
+  <img 
+    src="analysis/images/age_vs_Salary.png" 
+    alt="Employee salary versus age with average reference lines"
+    style="max-width:100%; height:auto;"
+  >
 </p>
+
+<p align="center"><em>
+Salary generally increases with age and experience, with clear differentiation across four quadrants defined by average age (43) and average salary (£78k). The structure supports senior reward and selective high-skill pay, while highlighting a watchpoint where experienced employees earn below the organisational average.
+</em></p>
+
 Analysis of **salary versus age** shows a clear upward relationship between experience and compensation, indicating a coherent progression framework. Senior and managerial roles are appropriately concentrated in higher salary bands, while a subset of younger employees earn above-average pay, reflecting market pricing for specialist or high-impact roles.
 
 **Implications**  
@@ -91,6 +100,8 @@ Bachelor-level variation merits deeper, role-normalised review to confirm whethe
 ---
 
 ### Performance Improves with Education but Plateaus at Higher Levels
+
+
 Performance ratings improve materially from lower to mid education levels, with fewer low-performance outcomes among Bachelor and Master-qualified employees. At Master and PhD levels, performance distributions stabilise, indicating diminishing marginal returns from additional qualifications.
 
 **Implications**  
@@ -103,6 +114,19 @@ Overall, the evidence points to a well-structured compensation and talent framew
 
 ---
 ### Performance Outcomes Scale Systematically with Education Level
+
+<p align="center">
+  <img 
+    src="analysis/images/education_vs_performance.png" 
+    alt="Performance rating distribution by education level"
+    style="max-width:100%; height:auto;"
+  >
+</p>
+
+<p align="center"><em>
+Performance outcomes shift upward with higher education levels: “Needs Improvement” declines and “Good” becomes dominant at Bachelor level and above.
+</em></p>
+
 Analysis of **performance ratings by education level** shows a clear and monotonic improvement in outcomes as qualification level increases. At the High School level, performance is concentrated in *Needs Improvement* and *Satisfactory* ratings, while Bachelor-qualified employees form a stable professional core dominated by *Good* performance. Master’s-qualified employees mark an inflection point, with the majority rated *Good* or *Excellent*, and PhD holders are strongly skewed toward *Excellent* outcomes.
 
 **Implications:**  
@@ -114,6 +138,19 @@ Lower performance concentration at the High School level reflects role scope rat
 ---
 
 ### Retention Is Uniformly Strong Across Hiring Cohorts
+
+<p align="center">
+  <img 
+    src="analysis/images/retention_rate.png" 
+    alt="Cohort-based employee retention rates by hire year"
+    style="max-width:100%; height:auto;"
+  >
+</p>
+
+<p align="center"><em>
+Cohort-based retention remains consistently high (≈83%–94%) across all hire years, with no post-hire attrition spike or post-2020 structural break. Headcount outcomes are driven by hiring volume rather than employee exits; apparent strength in recent cohorts reflects right-censoring, not improved retention.
+</em></p>
+
 Cohort-based retention analysis shows end-of-year retention consistently between **83% and 94%** across all hire years from 2015 to 2024. There is no evidence of cohort collapse, no post-hire attrition spike, and no structural break associated with the post-2020 period. Apparent strength in the most recent cohorts reflects right-censoring rather than a true improvement trend.
 
 **Implications:**  
