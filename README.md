@@ -67,6 +67,19 @@ More experienced employees earning below the company average represent a potenti
 ---
 
 ### Education Delivers Consistent Returns Without Systemic Gender Distortion
+
+<p align="center">
+  <img 
+    src="analysis/images/gender_vs_education_lvl.png" 
+    alt="Average compensation by gender across education levels"
+    style="max-width:100%; height:auto;"
+  >
+</p>
+<p align="center"><em>
+Education level shows disciplined, monotonic salary increases.  
+Gender differences are small at entry level and converge at higher qualifications.
+</em></p>
+
 Average salary increases consistently from **High School → Bachelor → Master → PhD**, indicating disciplined returns to education. Gender-based differences are minimal at entry level, widen modestly at Bachelor level, and narrow or disappear at higher qualifications, with PhD-level compensation appearing fully aligned.
 
 **Implications**  
