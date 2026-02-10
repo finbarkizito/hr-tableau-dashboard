@@ -44,14 +44,45 @@ The HR department lacked a consolidated, decision-ready view of workforce data a
 
 ---
 
-## Results & Key Insights
+## Insights
 
-- **Workforce Concentration:** The organisation is heavily centralised, with a disproportionate share of employees based at the New York HQ—posing scalability and resilience risks.
-- **Compensation Disparities:**
-  - At **Bachelor’s degree level**, male employees earn higher average salaries than female peers.
-  - At **PhD level**, the trend reverses, with female employees earning approximately **25% more** on average.
-- **Performance Correlation:** Higher education levels strongly correlate with stronger performance ratings; PhD holders cluster in “Excellent,” while High School graduates show higher “Needs Improvement” rates.
-- **Managerial Demographics:** HR Managers are significantly younger on average, while Finance Managers represent the highest-paid and oldest cohort.
+### Workforce Compensation & Capability Overview
+This analysis consolidates multiple employee-focused dashboards to assess how compensation aligns with experience, education, and performance across the organisation. The objective is to move beyond descriptive reporting and identify structural strengths, governance watchpoints, and decision-relevant implications for workforce strategy.
+
+---
+
+### Compensation Scales with Experience, with Targeted Market Exceptions
+Analysis of **salary versus age** shows a clear upward relationship between experience and compensation, indicating a coherent progression framework. Senior and managerial roles are appropriately concentrated in higher salary bands, while a subset of younger employees earn above-average pay, reflecting market pricing for specialist or high-impact roles.
+
+**So what:**  
+This pattern suggests a balanced compensation strategy that combines tenure-based progression with selective pay premiums for scarce skills. Such a structure supports competitiveness in tight labour markets without undermining internal pay coherence.
+
+**Watchpoint:**  
+More experienced employees earning below the company average represent a potential retention and engagement risk if progression pathways are unclear or constrained. This group warrants targeted monitoring rather than broad compensation restructuring.
+
+---
+
+### Education Delivers Consistent Returns Without Systemic Gender Distortion
+Average salary increases consistently from **High School → Bachelor → Master → PhD**, indicating disciplined returns to education. Gender-based differences are minimal at entry level, widen modestly at Bachelor level, and narrow or disappear at higher qualifications, with PhD-level compensation appearing fully aligned.
+
+**So what:**  
+Compensation at higher qualification levels is primarily driven by skill scarcity and role criticality rather than gender. The absence of widening gaps at senior or specialist levels suggests no evidence of systemic gender bias in pay-setting.
+
+**Watchpoint:**  
+Bachelor-level variation merits deeper, role-normalised review to confirm whether differences reflect role mix and progression patterns rather than emerging structural misalignment.
+
+---
+
+### Performance Improves with Education but Plateaus at Higher Levels
+Performance ratings improve materially from lower to mid education levels, with fewer low-performance outcomes among Bachelor and Master-qualified employees. At Master and PhD levels, performance distributions stabilise, indicating diminishing marginal returns from additional qualifications.
+
+**So what:**  
+Education strengthens baseline capability, but long-term performance differentiation is driven more by role fit, execution, and scope of responsibility than by credentials alone. This reinforces the importance of development, leadership, and role design at senior levels.
+
+---
+
+### Executive Takeaway
+The organisation demonstrates a **coherent and defensible people strategy**. Compensation generally aligns with experience and education, selectively rewards high-value skills, and shows no indication of systemic gender imbalance at senior levels. Identified risks are localised—mid-career pay compression and early-career progression clarity—supporting targeted intervention rather than wholesale reform.
 
 ---
 
