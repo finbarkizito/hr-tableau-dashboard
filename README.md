@@ -85,7 +85,27 @@ Education strengthens baseline capability, but long-term performance differentia
 Overall, the evidence points to a well-structured compensation and talent framework as pay progression is aligned with experience and qualifications, market premiums are applied selectively for critical skills, and no systemic gender bias is observed at senior levels. That being said, the few risks identified are contained and addressable, indicating a need for focused refinement rather than wholesale change.
 
 ---
+### Performance Outcomes Scale Systematically with Education Level
+Analysis of **performance ratings by education level** shows a clear and monotonic improvement in outcomes as qualification level increases. At the High School level, performance is concentrated in *Needs Improvement* and *Satisfactory* ratings, while Bachelor-qualified employees form a stable professional core dominated by *Good* performance. Master’s-qualified employees mark an inflection point, with the majority rated *Good* or *Excellent*, and PhD holders are strongly skewed toward *Excellent* outcomes.
 
+**Implications:**  
+This pattern indicates that the organisation has effectively aligned **role complexity, responsibility, and expectations** with qualification level. Education is being used as an input into role design rather than as a blunt signalling mechanism, resulting in declining underperformance and increasing excellence at higher levels. This provides a defensible basis for differentiated compensation, selective development investment, and focused retention of highly specialised talent.
+
+**Watchpoint:**  
+Lower performance concentration at the High School level reflects role scope rather than capability. These roles require structured supervision, training, and performance management, not aggressive differentiation or high-powered incentives.
+
+---
+
+### Retention Is Uniformly Strong Across Hiring Cohorts
+Cohort-based retention analysis shows end-of-year retention consistently between **83% and 94%** across all hire years from 2015 to 2024. There is no evidence of cohort collapse, no post-hire attrition spike, and no structural break associated with the post-2020 period. Apparent strength in the most recent cohorts reflects right-censoring rather than a true improvement trend.
+
+**Implications:**  
+This is a **high-retention organisation**, and workforce size outcomes are driven primarily by **hiring volume rather than employee exits**. Changes in headcount reflect management decisions about when and how much to hire, not underlying retention failure. As a result, growth constraints sit in recruiting capacity and budget, not attrition control.
+
+**Watchpoint:**  
+Given retention is not the limiting factor, analytical and managerial focus should shift away from “why people leave” toward **where, when, and why the firm chooses to hire**, as well as risks associated with role misallocation, skill obsolescence, and cost rigidity during downturns.
+
+---
 ## Business Recommendations
 
 1. **Pay Equity Audit:** Conduct a focused compensation review for Bachelor’s-degree roles to address identified gender pay gaps and reduce legal and reputational exposure (Could this be due to hours worked?).
