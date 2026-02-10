@@ -18,7 +18,7 @@ In other words: retention is stable and not the differentiator.
 
 Retention is uniformly strong, so **headcount outcomes are being driven by hiring volume, not people leaving** to drive this home, we can relate this to a bucket with very low leakage. If the water level changes, it’s because you turned the tap up or down and not because the bucket is cracked.
 
-## So what?
+## Implications?
 
 1. **Workforce size is a management choice, not an attrition outcome.**
    If leadership wants growth, the constraint is recruiting capacity and budget, not retention fixes.
