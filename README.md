@@ -65,7 +65,7 @@ More experienced employees earning below the company average represent a potenti
 ### Education Delivers Consistent Returns Without Systemic Gender Distortion
 Average salary increases consistently from **High School → Bachelor → Master → PhD**, indicating disciplined returns to education. Gender-based differences are minimal at entry level, widen modestly at Bachelor level, and narrow or disappear at higher qualifications, with PhD-level compensation appearing fully aligned.
 
-**So what:**  
+**Implications**  
 Compensation at higher qualification levels is primarily driven by skill scarcity and role criticality rather than gender. The absence of widening gaps at senior or specialist levels suggests no evidence of systemic gender bias in pay-setting.
 
 **Watchpoint:**  
@@ -76,7 +76,7 @@ Bachelor-level variation merits deeper, role-normalised review to confirm whethe
 ### Performance Improves with Education but Plateaus at Higher Levels
 Performance ratings improve materially from lower to mid education levels, with fewer low-performance outcomes among Bachelor and Master-qualified employees. At Master and PhD levels, performance distributions stabilise, indicating diminishing marginal returns from additional qualifications.
 
-**So what:**  
+**Implications**  
 Education strengthens baseline capability, but long-term performance differentiation is driven more by role fit, execution, and scope of responsibility than by credentials alone. This reinforces the importance of development, leadership, and role design at senior levels.
 
 ---
