@@ -4,9 +4,7 @@
   <img src="images/age_vs_Salary.png" alt="Compensation Analysis: Salary vs Age" width="800">
 </p>
 
-This analysis examines employee compensation using a scatter plot of **salary (Y-axis)** against **age (X-axis)**, with reference lines marking the **average salary (£78k)** and **average age (43)**. These benchmarks divide the workforce into four distinct quadrants, each offering insight into how pay aligns with experience, role seniority, and skill value across the organisation.
-
-This analysis examines employee compensation using a scatter plot of **salary (Y-axis)** against **age (X-axis)**, with reference lines marking the **average salary (£78k)** and **average age (43)**. These benchmarks divide the workforce into four distinct quadrants, each offering insight into how pay aligns with experience, role seniority, and skill value across the organisation.
+Here, we examine employee compensation using a scatter plot of **salary (Y-axis)** against **age (X-axis)**, with reference lines marking the **average salary (£78k)** and **average age (43)**. These benchmarks divide the workforce into four distinct quadrants, each offering insight into how pay aligns with experience, role seniority, and skill value across the organisation.
 
 ## Interpretation of the Four Quadrants
 
@@ -22,4 +20,5 @@ The **lower-left quadrant (Age < 43, Salary but £78k)** represents the early-ca
 
 Overall, the company appears to operate a **coherent and largely market-aligned compensation structure**. Pay generally increases with age and implied experience, while still allowing for above-average compensation for high-value skills irrespective of age. This indicates a balanced approach that combines traditional career progression with selective market pricing.
 
-The primary strategic watchpoint is the lower-right quadrant, where experienced employees earn below the company average. If sustained without progression opportunities, this pattern could translate into retention or morale risk. However, based on this view alone, there is no evidence of systemic misalignment or widespread inequity. The compensation framework appears deliberate, differentiated, and broadly defensible, with targeted areas for deeper role-level and tenure-based review rather than the need for wholesale restructuring.
+The primary watchpoint is the lower-right quadrant, where experienced employees earn below the company average. If sustained without progression opportunities, this pattern could translate into retention or morale risk. However, based on this view alone, there is no evidence of systemic misalignment or widespread inequity. 
+Threrefore the compensation framework appears deliberate and broadly defensible, with targeted areas for deeper role-level and tenure-based review rather than the need for wholesale restructuring.
