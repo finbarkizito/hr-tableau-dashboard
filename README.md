@@ -40,7 +40,7 @@ The HR department lacked a consolidated, decision-ready view of workforce data a
 
 - **Dashboard Architecture & UX**
   - Designed a **two-layer navigation system** (Executive Summary vs. Employee Detail) using parameter actions and navigation buttons.
-  - Implemented a high-fidelity background layout designed in **Figma** to improve visual hierarchy and user adoption.
+  - Implemented a high-fidelity background layout designed in **Figma** to improve the visual hierarchy and user adoption.
 
 ---
 
